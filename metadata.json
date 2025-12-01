@@ -1,0 +1,8 @@
+{
+  "name": "The Prince's Studio",
+  "description": "A Machiavellian creative suite for strategic image editing, video propaganda, and persuasive copy generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
